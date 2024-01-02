@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Mateus Victor 🤓
+### Olá, meu nome é Mateus Victor 🤓. Bem-vindo ao meu perfil no GitHub, logo abaixo, além dos meus repositórios, você encontrará algumas das minhas redes sociais.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusvct1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusvct1//)
