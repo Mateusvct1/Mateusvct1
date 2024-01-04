@@ -28,6 +28,7 @@ Total Issues: “Issues” ou “problemas” são uma maneira de rastrear taref
 <p>
 Contributed to (last year): Isso se refere ao número de repositórios diferentes para os quais um usuário contribuiu no último ano. Contribuir pode incluir coisas como fazer commits, abrir problemas e enviar solicitações de pull.
 </p>
+
 ## Legenda-Tecnologias:
 <p>
 Sass:
@@ -35,7 +36,7 @@ O Sass é um pré-processador CSS, atravé dele podemos criar variáveis, regras
 Pré-processador:
 Sao interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
 
-fonte: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D acesso 04 de jan. de 2024.
+fonte: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D Acesso 04 de jan. de 2024.
 </p>
 
 
