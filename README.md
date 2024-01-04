@@ -14,8 +14,7 @@
 <img style= "align: center" alt="JavaSript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 <img style= "align: center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
 <img style= "align: center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</div>
-
+ 
 ## Legenda:
 <p>
   Total de Stars Earned: Este é o número total de “stars” ou “estrelas” que um repositório recebeu de outros usuários no GitHub. É uma maneira de as pessoas mostrarem que apreciam ou acham útil um projeto.
@@ -29,6 +28,16 @@ Total Issues: “Issues” ou “problemas” são uma maneira de rastrear taref
 <p>
 Contributed to (last year): Isso se refere ao número de repositórios diferentes para os quais um usuário contribuiu no último ano. Contribuir pode incluir coisas como fazer commits, abrir problemas e enviar solicitações de pull.
 </p>
+## Legenda-Tecnologias:
+<p>
+Sass:
+O Sass é um pré-processador CSS, atravé dele podemos criar variáveis, regras aninhadas, minins, módulos e muito mais.
+Pré-processador:
+Sao interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
+
+fonte: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D acesso 04 de jan. de 2024.
+</p>
+
 
 
 
