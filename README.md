@@ -33,9 +33,12 @@ Contributed to (last year): Isso se refere ao número de repositórios diferente
 <p>
 Sass:
 O Sass é um pré-processador CSS, atravé dele podemos criar variáveis, regras aninhadas, minins, módulos e muito mais.
+</p>
+<p>
 Pré-processador:
 Sao interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
-
+</p>
+<p>
 fonte: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D Acesso 04 de jan. de 2024.
 </p>
 
