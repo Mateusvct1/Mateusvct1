@@ -40,7 +40,11 @@ Sao interpretadores de código. Eles leem todo o código gerado e convertem para
 </p>
 <p>
 fonte: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D Acesso 04 de jan. de 2024.
-</p>
+</p><br>
+
+<p style="text-align: center">
+        <img align="center" src="https://profile-counter.glitch.me/Mateusvct1/count.svg" />
+    </p>
 
 
 
