@@ -40,11 +40,11 @@ Sao interpretadores de código. Eles leem todo o código gerado e convertem para
 </p>
 
 ###### Bibiografia
-<p>
-Disponivel em: https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D Acesso 04 de jan. de 2024.
-<br>
-Disponivel em: [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) Acesso 11 de Jan. de 2024.
-</p><br>
+
+Disponível em: [BUSSOLA  [DEV]](https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D) Acesso 04 de jan. de 2024.
+
+Disponível em: [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) Acesso 11 de Jan. de 2024.
+
 
 
 
