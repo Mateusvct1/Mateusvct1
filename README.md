@@ -37,7 +37,7 @@ O Sass é um pré-processador CSS, atravé dele podemos criar variáveis, regras
 </p>
 <p>
 Pré-processador:
-Sao interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
+São interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
 </p>
 
 ###### Bibiografia
