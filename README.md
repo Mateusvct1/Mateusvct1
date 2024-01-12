@@ -1,6 +1,6 @@
 
 ![Arte animada Mateus VIctor](https://github.com/Mateusvct1/Mateusvct1/blob/main/arte%20animada.gif)
-# **Olá,🤓. Bem-vindo ao meu perfil no GitHub, logo abaixo, além dos meus repositórios, você encontrará algumas das minhas redes sociais.**
+# **Olá,Bem-vindo ao meu perfil no GitHub, logo abaixo, além dos meus repositórios, você encontrará algumas das minhas redes sociais.🤓**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusvct1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusvct1//)
