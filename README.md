@@ -1,5 +1,5 @@
 
-![Arte animada Mateus VIctor](https://github.com/Mateusvct1/Mateusvct1/blob/main/arte%20animada.gif)
+![Arte animada com o nome"Mateus VIctor"](https://github.com/Mateusvct1/Mateusvct1/blob/main/arte%20animada.gif)
 
 # **Olá! Bem-vindo ao meu perfil no GitHub, logo abaixo, além dos meus repositórios, você encontrará algumas das minhas redes sociais.🤓**
 
