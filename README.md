@@ -47,6 +47,8 @@ Disponível em: [BUSSOLA  [DEV]](https://www.youtube.com/watch?v=AVaj5tZ-SEo&lis
 
 Disponível em: [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) Acesso 11 de Jan. de 2024.
 
+Disponível em:[📛 Awesome Badges - DEV Community](https://dev.to/envoy_/150-badges-for-github-pnk). Acesso 17 de Jan. de 2024.
+
 
 
 
