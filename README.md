@@ -41,7 +41,7 @@ Pré-processador:
 São interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
 </p>
 
-###### Bibiografia
+###### Referências:
 
 Disponível em: [BUSSOLA  [DEV]](https://www.youtube.com/watch?v=AVaj5tZ-SEo&list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo&index=1&ab_channel=BUSSOLA%5BDEV%5D) Acesso 04 de jan. de 2024.
 
