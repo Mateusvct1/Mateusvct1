@@ -1,10 +1,10 @@
 
-![Arte animada com o nome "Mateus VIctor"](https://github.com/Mateusvct1/Mateusvct1/blob/main/arte%20animada.gif)
+![Arte animada com o nome "Mateus Victor"](https://raw.githubusercontent.com/Mateusvct1/Mateusvct1/main/arte%20animada.gif)
 
 # **Olá! Bem-vindo ao meu perfil no GitHub, logo abaixo, além dos meus repositórios, você encontrará algumas das minhas redes sociais.🤓**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusvct1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusvct1//)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusvct1/)
 
 ![Mateus Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusvct1&show_icons=true&theme=dark)
 
@@ -29,16 +29,6 @@ Total Issues: “Issues” ou “problemas” são uma maneira de rastrear taref
 </p>
 <p>
 Contributed to (last year): Isso se refere ao número de repositórios diferentes para os quais um usuário contribuiu no último ano. Contribuir pode incluir coisas como fazer commits, abrir problemas e enviar solicitações de pull.
-</p>
-
-## Legenda-Tecnologias:
-<p>
-Sass:
-O Sass é um pré-processador CSS, atravé dele podemos criar variáveis, regras aninhadas, minins, módulos e muito mais.
-</p>
-<p>
-Pré-processador:
-São interpretadores de código. Eles leem todo o código gerado e convertem para CSS.
 </p>
 
 ###### Referências:
